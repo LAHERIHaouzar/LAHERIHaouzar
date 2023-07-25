@@ -1,0 +1,26 @@
+# Projet Jeunesse Épanouie
+
+Ce projet vise à créer une plateforme en ligne pour promouvoir l'épanouissement des jeunes en proposant des ressources éducatives, des activités artistiques et sportives, ainsi que des conseils pour leur développement personnel.
+
+## Objectifs
+
+- Offrir un accès gratuit à des cours et des tutoriels dans différentes matières pour les jeunes de tous âges.
+- Organiser des ateliers et des événements culturels et sportifs pour encourager la créativité et la sociabilité.
+- Proposer des conseils et des outils pour renforcer la confiance en soi et favoriser l'estime de soi chez les jeunes.
+
+## Technologies utilisées
+
+- HTML, CSS et JavaScript pour la conception de la plateforme web.
+- Vue.js pour la création d'interactions dynamiques avec les utilisateurs.
+- Node.js pour la gestion du backend et des bases de données.
+
+## Contributeurs
+
+- John Doe (@johndoe)
+- Jane Smith (@janesmith)
+
+## Comment contribuer
+
+Nous encourageons les contributeurs à soumettre des pull requests avec des améliorations, des correctifs de bugs ou de nouvelles fonctionnalités. Vous pouvez également signaler des problèmes ou proposer des idées dans la section "Issues".
+
+Merci de contribuer à rendre la jeunesse épanouie !
